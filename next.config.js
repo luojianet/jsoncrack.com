@@ -10,6 +10,7 @@ const config = {
   output: "export",
   reactStrictMode: false,
   productionBrowserSourceMaps: true,
+  basePath: "/jsoncrack",
   compiler: {
     styledComponents: true,
   },
